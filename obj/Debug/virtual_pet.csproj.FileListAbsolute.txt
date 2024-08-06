@@ -1,0 +1,9 @@
+C:\Users\renom\source\repos\virtual_pet\bin\Debug\virtual_pet.exe.config
+C:\Users\renom\source\repos\virtual_pet\bin\Debug\virtual_pet.exe
+C:\Users\renom\source\repos\virtual_pet\bin\Debug\virtual_pet.pdb
+C:\Users\renom\source\repos\virtual_pet\obj\Debug\virtual_pet.csproj.AssemblyReference.cache
+C:\Users\renom\source\repos\virtual_pet\obj\Debug\virtual_pet.Properties.Resources.resources
+C:\Users\renom\source\repos\virtual_pet\obj\Debug\virtual_pet.csproj.GenerateResource.cache
+C:\Users\renom\source\repos\virtual_pet\obj\Debug\virtual_pet.csproj.CoreCompileInputs.cache
+C:\Users\renom\source\repos\virtual_pet\obj\Debug\virtual_pet.exe
+C:\Users\renom\source\repos\virtual_pet\obj\Debug\virtual_pet.pdb
