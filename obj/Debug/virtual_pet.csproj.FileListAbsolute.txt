@@ -7,3 +7,13 @@ C:\Users\renom\source\repos\virtual_pet\obj\Debug\virtual_pet.csproj.GenerateRes
 C:\Users\renom\source\repos\virtual_pet\obj\Debug\virtual_pet.csproj.CoreCompileInputs.cache
 C:\Users\renom\source\repos\virtual_pet\obj\Debug\virtual_pet.exe
 C:\Users\renom\source\repos\virtual_pet\obj\Debug\virtual_pet.pdb
+D:\GitHub\virtual_pet\bin\Debug\virtual_pet.exe.config
+D:\GitHub\virtual_pet\bin\Debug\virtual_pet.exe
+D:\GitHub\virtual_pet\bin\Debug\virtual_pet.pdb
+D:\GitHub\virtual_pet\obj\Debug\virtual_pet.csproj.AssemblyReference.cache
+D:\GitHub\virtual_pet\obj\Debug\virtual_pet.TheWindows.resources
+D:\GitHub\virtual_pet\obj\Debug\virtual_pet.Properties.Resources.resources
+D:\GitHub\virtual_pet\obj\Debug\virtual_pet.csproj.GenerateResource.cache
+D:\GitHub\virtual_pet\obj\Debug\virtual_pet.csproj.CoreCompileInputs.cache
+D:\GitHub\virtual_pet\obj\Debug\virtual_pet.exe
+D:\GitHub\virtual_pet\obj\Debug\virtual_pet.pdb
