@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace virtual_pet
 {
-    public partial class Form1 : Form
+    public partial class TheWindows : Form
     {
-        public Form1()
+        public TheWindows()
         {
             InitializeComponent();
         }
