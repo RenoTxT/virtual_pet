@@ -49,6 +49,7 @@
             this.progressMood = new System.Windows.Forms.ProgressBar();
             this.progressStamina = new System.Windows.Forms.ProgressBar();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.ubah = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -246,11 +247,22 @@
             // 
             // pictureBox1
             // 
+            this.pictureBox1.Image = global::virtual_pet.Properties.Resources.cat;
             this.pictureBox1.Location = new System.Drawing.Point(800, 50);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(350, 350);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 20;
             this.pictureBox1.TabStop = false;
+            // 
+            // ubah
+            // 
+            this.ubah.Location = new System.Drawing.Point(626, 55);
+            this.ubah.Name = "ubah";
+            this.ubah.Size = new System.Drawing.Size(122, 32);
+            this.ubah.TabIndex = 21;
+            this.ubah.Text = "Ubah";
+            this.ubah.UseVisualStyleBackColor = true;
             // 
             // TheWindows
             // 
@@ -258,6 +270,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoValidate = System.Windows.Forms.AutoValidate.EnablePreventFocusChange;
             this.ClientSize = new System.Drawing.Size(1262, 673);
+            this.Controls.Add(this.ubah);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.progressStamina);
             this.Controls.Add(this.progressMood);
@@ -316,6 +329,7 @@
         private System.Windows.Forms.ProgressBar progressMood;
         private System.Windows.Forms.ProgressBar progressStamina;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Button ubah;
     }
 }
 
